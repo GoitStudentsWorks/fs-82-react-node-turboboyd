@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-82-react-node-turboboyd/static/css/main.6ba81bfd.css",
-    "main.js": "/fs-82-react-node-turboboyd/static/js/main.3b15076c.js",
+    "main.js": "/fs-82-react-node-turboboyd/static/js/main.eedf3fd0.js",
     "static/css/302.8177d80c.chunk.css": "/fs-82-react-node-turboboyd/static/css/302.8177d80c.chunk.css",
     "static/js/302.9ebda998.chunk.js": "/fs-82-react-node-turboboyd/static/js/302.9ebda998.chunk.js",
     "static/css/355.5dca019a.chunk.css": "/fs-82-react-node-turboboyd/static/css/355.5dca019a.chunk.css",
@@ -35,7 +35,7 @@
     "static/media/thumbIcon.png": "/fs-82-react-node-turboboyd/static/media/thumbIcon.06ff8a8bdc626f0847f6.png",
     "index.html": "/fs-82-react-node-turboboyd/index.html",
     "main.6ba81bfd.css.map": "/fs-82-react-node-turboboyd/static/css/main.6ba81bfd.css.map",
-    "main.3b15076c.js.map": "/fs-82-react-node-turboboyd/static/js/main.3b15076c.js.map",
+    "main.eedf3fd0.js.map": "/fs-82-react-node-turboboyd/static/js/main.eedf3fd0.js.map",
     "302.8177d80c.chunk.css.map": "/fs-82-react-node-turboboyd/static/css/302.8177d80c.chunk.css.map",
     "302.9ebda998.chunk.js.map": "/fs-82-react-node-turboboyd/static/js/302.9ebda998.chunk.js.map",
     "355.5dca019a.chunk.css.map": "/fs-82-react-node-turboboyd/static/css/355.5dca019a.chunk.css.map",
@@ -61,6 +61,6 @@
   },
   "entrypoints": [
     "static/css/main.6ba81bfd.css",
-    "static/js/main.3b15076c.js"
+    "static/js/main.eedf3fd0.js"
   ]
 }
