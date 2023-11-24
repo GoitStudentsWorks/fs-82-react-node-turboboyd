@@ -15,7 +15,7 @@ root.render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/PowerPulser">
+        <BrowserRouter basename="/fs-82-react-node-turboboyd">
           <App />
           <ToastContainer />
         </BrowserRouter>
